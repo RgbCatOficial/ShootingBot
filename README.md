@@ -1,0 +1,1 @@
+Well, in this project I will do a functional bot that shoots with AI. The AI uses a system that is called "Learning from Reward". Consist in the machine getting plus points if they get right and subtract points if they get wrong.
